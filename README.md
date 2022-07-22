@@ -64,7 +64,7 @@ Master 2 Informatique @ Université Lyon 2, parcours MALIA (MAchine Learning pou
                         <li>  <a href="https://github.com/wikistat/Intro-Python">introduction à Python de wikistat</a></li>
                         </ul>
                         </ul></p>
-                        <h5>Liens utiles</h5>
+                        <h4>Liens utiles</h4>
                         <p>Sites
                         <ul>
                         <li>  <a href="https://github.com/wikistat/Intro-Python">http://wikistat.fr/</a></li>
