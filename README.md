@@ -4,8 +4,8 @@ Master 2 Informatique @ Université Lyon 2, parcours MALIA (MAchine Learning pou
 <h3>Candidature et calendrier</h3>
 <p><ul>
    <li>Début des cours 12/09/2022</li>
-   <li>Calendrier 2022-23 : <a href="Calendrier2022-23-etudiant-v2">etudiants</a> et <a href="Calendrier2022-23-alternance-v2">apprentis et contrat pro</a></li>
-   <li>Plaquette de présentation : <a href="Download/M2DM/M2-info-lyon2-MALIA">ici</a></li>
+   <li>Calendrier 2022-23 : <a href="Calendrier2022-23-etudiant-v2.pdf">etudiants</a> et <a href="Calendrier2022-23-alternance-v2.pdf">apprentis et contrat pro</a></li>
+   <li>Plaquette de présentation : <a href="M2-info-lyon2-MALIA.pdf">ici</a></li>
    <li>Candidatures 2022-23 : <a href="https://icom.univ-lyon2.fr/formation/demarches-et-inscription">ici</a> du 3 mai 2022 au 2 juin 2022 (première vague), puis du 12 juillet au 24 aout (seconde vague)</li>
 </ul></p>
 
@@ -72,7 +72,7 @@ Master 2 Informatique @ Université Lyon 2, parcours MALIA (MAchine Learning pou
                         </ul></p>
                         <p>Livres
                         <ul>
-                        <li>  <a href="https://mml-book.github.io/">Mathematics for Machine Learning</a></li>
+                        <li>  MML book : <a href="https://mml-book.github.io/">Mathematics for Machine Learning</a></li>
                         <li>  <a href="https://www-bcf.usc.edu/~gareth/ISL/ISLR First Printing.pdf">An introduction to statistical learning, with applications in R</a> (G. James, D. Witten, T. Hastie, R. Tibshirani, 2013)</li>
                         <li>  <a href="https://web.stanford.edu/~hastie/Papers/ESLII.pdf">The elements of statistical learning</a> (T. Hastie, R. Tibshirani, J. Friedman, 2009)</li>
                         <li>  <a href="http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop - Pattern Recognition And Machine Learning - Springer  2006.pdf">Pattern Recognition and Machine Learning</a> (C.M. Bishop, 2006)</li>
