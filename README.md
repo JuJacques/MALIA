@@ -65,13 +65,13 @@ Master 2 Informatique @ Université Lyon 2, parcours MALIA (MAchine Learning pou
                         </ul>
                         </ul></p>
                         <h4>Liens utiles</h4>
-                        <p>Sites
-                        <ul>
+                        <h5>Sites web</h5>
+                        <p><ul>
                         <li>  <a href="https://github.com/wikistat/Intro-Python">http://wikistat.fr/</a></li>
                         <li>  <a href="https://github.com/wikistat/Intro-Python">https://github.com/wikistat/</a></li>
                         </ul></p>
-                        <p>Livres
-                        <ul>
+                        <h5>Livres disponibles en ligne</h5>
+                        <p><ul>
                         <li>  MML book : <a href="https://mml-book.github.io/">Mathematics for Machine Learning</a></li>
                         <li>  <a href="https://www-bcf.usc.edu/~gareth/ISL/ISLR First Printing.pdf">An introduction to statistical learning, with applications in R</a> (G. James, D. Witten, T. Hastie, R. Tibshirani, 2013)</li>
                         <li>  <a href="https://web.stanford.edu/~hastie/Papers/ESLII.pdf">The elements of statistical learning</a> (T. Hastie, R. Tibshirani, J. Friedman, 2009)</li>
